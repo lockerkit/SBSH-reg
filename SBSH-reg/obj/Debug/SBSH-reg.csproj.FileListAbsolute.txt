@@ -1,0 +1,10 @@
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\bin\Debug\SBSH-reg.exe.config
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\bin\Debug\SBSH-reg.exe
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\bin\Debug\SBSH-reg.pdb
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.csprojResolveAssemblyReference.cache
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.Form1.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.Properties.Resources.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.csproj.GenerateResource.Cache
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.csproj.CoreCompileInputs.cache
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.exe
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.pdb
