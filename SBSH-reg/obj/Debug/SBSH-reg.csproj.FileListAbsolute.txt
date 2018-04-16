@@ -8,3 +8,9 @@ C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.csproj.Generate
 C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.csproj.CoreCompileInputs.cache
 C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.exe
 C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH-reg.pdb
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.hoofdmenu.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.Account.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.accountRegistratie.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.BatchRegistratie.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.batchCategorie.resources
+C:\Users\stan_\source\repos\SBSH-reg\SBSH-reg\obj\Debug\SBSH_reg.Deelbatch.resources
